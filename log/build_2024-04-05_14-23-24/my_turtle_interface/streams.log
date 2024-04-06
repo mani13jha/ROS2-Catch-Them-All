@@ -1,0 +1,9 @@
+[0.021s] Invoking command in '/home/maninder/Music/turtlesim_project/build/my_turtle_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg:/home/maninder/Music/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/maninder/Music/turtlesim_project/build/my_turtle_interface -- -j12 -l12
+[0.109s] failed to create symbolic link '/home/maninder/Music/turtlesim_project/build/my_turtle_interface/ament_cmake_python/my_turtle_interface/my_turtle_interface' because existing path cannot be removed: Is a directory
+[0.110s] [  3%] Built target my_turtle_interface__cpp
+[0.111s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_my_turtle_interface.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_my_turtle_interface] Error 1
+[0.112s] gmake[1]: *** [CMakeFiles/Makefile2:421: CMakeFiles/ament_cmake_python_symlink_my_turtle_interface.dir/all] Error 2
+[0.112s] gmake[1]: *** Waiting for unfinished jobs....
+[0.112s] [ 12%] Built target my_turtle_interface__rosidl_generator_c
+[0.115s] gmake: *** [Makefile:146: all] Error 2
+[0.121s] Invoked command in '/home/maninder/Music/turtlesim_project/build/my_turtle_interface' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg:/home/maninder/Music/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/maninder/Music/turtlesim_project/build/my_turtle_interface -- -j12 -l12

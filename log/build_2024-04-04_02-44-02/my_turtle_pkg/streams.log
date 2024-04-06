@@ -1,0 +1,18 @@
+[0.648s] Invoking command in '/home/maninder/Music/turtlesim_project/build/my_turtle_pkg': PYTHONPATH=/home/maninder/Music/turtlesim_project/build/my_turtle_pkg/prefix_override:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build --no-deps symlink_data
+[0.907s] running develop
+[1.068s] running egg_info
+[1.068s] writing my_turtle_pkg.egg-info/PKG-INFO
+[1.068s] writing dependency_links to my_turtle_pkg.egg-info/dependency_links.txt
+[1.068s] writing entry points to my_turtle_pkg.egg-info/entry_points.txt
+[1.068s] writing requirements to my_turtle_pkg.egg-info/requires.txt
+[1.068s] writing top-level names to my_turtle_pkg.egg-info/top_level.txt
+[1.070s] reading manifest file 'my_turtle_pkg.egg-info/SOURCES.txt'
+[1.071s] writing manifest file 'my_turtle_pkg.egg-info/SOURCES.txt'
+[1.073s] running build_ext
+[1.073s] Creating /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my-turtle-pkg.egg-link (link to .)
+[1.073s] Installing turtle_catch_node script to /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/my_turtle_pkg
+[1.074s] Installing turtle_spawn_node script to /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/my_turtle_pkg
+[1.074s] 
+[1.074s] Installed /home/maninder/Music/turtlesim_project/build/my_turtle_pkg
+[1.074s] running symlink_data
+[1.123s] Invoked command in '/home/maninder/Music/turtlesim_project/build/my_turtle_pkg' returned '0': PYTHONPATH=/home/maninder/Music/turtlesim_project/build/my_turtle_pkg/prefix_override:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build --no-deps symlink_data

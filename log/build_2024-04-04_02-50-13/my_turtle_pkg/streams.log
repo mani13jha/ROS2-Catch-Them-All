@@ -1,0 +1,35 @@
+[0.640s] Invoking command in '/home/maninder/Music/turtlesim_project/build/my_turtle_pkg': PYTHONPATH=/home/maninder/Music/turtlesim_project/build/my_turtle_pkg/prefix_override:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build
+[0.893s] running develop
+[1.053s] Removing /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my-turtle-pkg.egg-link (link to .)
+[1.094s] Invoked command in '/home/maninder/Music/turtlesim_project/build/my_turtle_pkg' returned '0': PYTHONPATH=/home/maninder/Music/turtlesim_project/build/my_turtle_pkg/prefix_override:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build
+[1.097s] Invoking command in '/home/maninder/Music/turtlesim_project/src/my_turtle_pkg': PYTHONPATH=/home/maninder/Music/turtlesim_project/build/my_turtle_pkg/prefix_override:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_turtle_pkg build --build-base /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build install --record /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/install.log --single-version-externally-managed install_data --force
+[1.337s] running egg_info
+[1.338s] writing ../../build/my_turtle_pkg/my_turtle_pkg.egg-info/PKG-INFO
+[1.338s] writing dependency_links to ../../build/my_turtle_pkg/my_turtle_pkg.egg-info/dependency_links.txt
+[1.338s] writing entry points to ../../build/my_turtle_pkg/my_turtle_pkg.egg-info/entry_points.txt
+[1.339s] writing requirements to ../../build/my_turtle_pkg/my_turtle_pkg.egg-info/requires.txt
+[1.339s] writing top-level names to ../../build/my_turtle_pkg/my_turtle_pkg.egg-info/top_level.txt
+[1.340s] reading manifest file '../../build/my_turtle_pkg/my_turtle_pkg.egg-info/SOURCES.txt'
+[1.341s] writing manifest file '../../build/my_turtle_pkg/my_turtle_pkg.egg-info/SOURCES.txt'
+[1.341s] running build
+[1.341s] running build_py
+[1.342s] copying my_turtle_pkg/turtle_catch_node.py -> /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build/lib/my_turtle_pkg
+[1.342s] running install
+[1.342s] running install_lib
+[1.343s] creating /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my_turtle_pkg
+[1.343s] copying /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build/lib/my_turtle_pkg/__init__.py -> /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my_turtle_pkg
+[1.343s] copying /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build/lib/my_turtle_pkg/turtle_spawn_node.py -> /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my_turtle_pkg
+[1.343s] copying /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build/lib/my_turtle_pkg/turtle_catch_node.py -> /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my_turtle_pkg
+[1.344s] byte-compiling /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my_turtle_pkg/__init__.py to __init__.cpython-310.pyc
+[1.344s] byte-compiling /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my_turtle_pkg/turtle_spawn_node.py to turtle_spawn_node.cpython-310.pyc
+[1.344s] byte-compiling /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my_turtle_pkg/turtle_catch_node.py to turtle_catch_node.cpython-310.pyc
+[1.345s] running install_data
+[1.345s] copying resource/my_turtle_pkg -> /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/share/ament_index/resource_index/packages
+[1.345s] copying package.xml -> /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/share/my_turtle_pkg
+[1.345s] running install_egg_info
+[1.347s] Copying ../../build/my_turtle_pkg/my_turtle_pkg.egg-info to /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my_turtle_pkg-0.0.0-py3.10.egg-info
+[1.348s] running install_scripts
+[1.365s] Installing turtle_catch_node script to /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/my_turtle_pkg
+[1.365s] Installing turtle_spawn_node script to /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/my_turtle_pkg
+[1.366s] writing list of installed files to '/home/maninder/Music/turtlesim_project/build/my_turtle_pkg/install.log'
+[1.398s] Invoked command in '/home/maninder/Music/turtlesim_project/src/my_turtle_pkg' returned '0': PYTHONPATH=/home/maninder/Music/turtlesim_project/build/my_turtle_pkg/prefix_override:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_turtle_pkg build --build-base /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build install --record /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/install.log --single-version-externally-managed install_data --force

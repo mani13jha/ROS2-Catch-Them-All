@@ -1,0 +1,8 @@
+setup.py
+my_turtle_interface/__init__.py
+my_turtle_interface.egg-info/PKG-INFO
+my_turtle_interface.egg-info/SOURCES.txt
+my_turtle_interface.egg-info/dependency_links.txt
+my_turtle_interface.egg-info/top_level.txt
+my_turtle_interface/msg/__init__.py
+my_turtle_interface/msg/_turtle_spawn_info.py

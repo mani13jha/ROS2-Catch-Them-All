@@ -1,0 +1,25 @@
+[0.889s] Invoking command in '/home/maninder/Music/turtlesim_project/src/my_turtle_pkg': CMAKE_PREFIX_PATH=/home/maninder/Music/turtlesim_project/install/my_turtle_interface:/home/maninder/Music/turtlesim_project/install/my_turtle_bringup:/home/maninder/Music/ros2_ws/install/my_robot_bringup:/home/maninder/Music/ros2_ws/install/my_robot_interfaces:/home/maninder/Music/ros2_ws/install/my_cpp_pkg PYTHONPATH=/home/maninder/Music/turtlesim_project/build/my_turtle_pkg/prefix_override:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_turtle_pkg build --build-base /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build install --record /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/install.log --single-version-externally-managed install_data
+[1.220s] running egg_info
+[1.221s] writing ../../build/my_turtle_pkg/my_turtle_pkg.egg-info/PKG-INFO
+[1.221s] writing dependency_links to ../../build/my_turtle_pkg/my_turtle_pkg.egg-info/dependency_links.txt
+[1.221s] writing entry points to ../../build/my_turtle_pkg/my_turtle_pkg.egg-info/entry_points.txt
+[1.221s] writing requirements to ../../build/my_turtle_pkg/my_turtle_pkg.egg-info/requires.txt
+[1.221s] writing top-level names to ../../build/my_turtle_pkg/my_turtle_pkg.egg-info/top_level.txt
+[1.223s] reading manifest file '../../build/my_turtle_pkg/my_turtle_pkg.egg-info/SOURCES.txt'
+[1.225s] writing manifest file '../../build/my_turtle_pkg/my_turtle_pkg.egg-info/SOURCES.txt'
+[1.225s] running build
+[1.225s] running build_py
+[1.225s] copying my_turtle_pkg/turtle_catch_node.py -> /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build/lib/my_turtle_pkg
+[1.225s] running install
+[1.226s] running install_lib
+[1.227s] copying /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build/lib/my_turtle_pkg/turtle_catch_node.py -> /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my_turtle_pkg
+[1.227s] byte-compiling /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my_turtle_pkg/turtle_catch_node.py to turtle_catch_node.cpython-310.pyc
+[1.229s] running install_data
+[1.229s] running install_egg_info
+[1.231s] removing '/home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my_turtle_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.231s] Copying ../../build/my_turtle_pkg/my_turtle_pkg.egg-info to /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my_turtle_pkg-0.0.0-py3.10.egg-info
+[1.233s] running install_scripts
+[1.258s] Installing turtle_catch_node script to /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/my_turtle_pkg
+[1.258s] Installing turtle_spawn_node script to /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/my_turtle_pkg
+[1.258s] writing list of installed files to '/home/maninder/Music/turtlesim_project/build/my_turtle_pkg/install.log'
+[1.297s] Invoked command in '/home/maninder/Music/turtlesim_project/src/my_turtle_pkg' returned '0': CMAKE_PREFIX_PATH=/home/maninder/Music/turtlesim_project/install/my_turtle_interface:/home/maninder/Music/turtlesim_project/install/my_turtle_bringup:/home/maninder/Music/ros2_ws/install/my_robot_bringup:/home/maninder/Music/ros2_ws/install/my_robot_interfaces:/home/maninder/Music/ros2_ws/install/my_cpp_pkg PYTHONPATH=/home/maninder/Music/turtlesim_project/build/my_turtle_pkg/prefix_override:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_turtle_pkg build --build-base /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build install --record /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/install.log --single-version-externally-managed install_data

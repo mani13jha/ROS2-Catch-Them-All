@@ -1,0 +1,20 @@
+[0.650s] Invoking command in '/home/maninder/Music/turtlesim_project/build/my_turtle_pkg': PYTHONPATH=/home/maninder/Music/turtlesim_project/build/my_turtle_pkg/prefix_override:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build --no-deps symlink_data --force
+[0.910s] running develop
+[1.069s] running egg_info
+[1.070s] writing my_turtle_pkg.egg-info/PKG-INFO
+[1.070s] writing dependency_links to my_turtle_pkg.egg-info/dependency_links.txt
+[1.070s] writing entry points to my_turtle_pkg.egg-info/entry_points.txt
+[1.070s] writing requirements to my_turtle_pkg.egg-info/requires.txt
+[1.071s] writing top-level names to my_turtle_pkg.egg-info/top_level.txt
+[1.071s] reading manifest file 'my_turtle_pkg.egg-info/SOURCES.txt'
+[1.072s] writing manifest file 'my_turtle_pkg.egg-info/SOURCES.txt'
+[1.073s] running build_ext
+[1.073s] Creating /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages/my-turtle-pkg.egg-link (link to .)
+[1.074s] Installing turtle_catch_node script to /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/my_turtle_pkg
+[1.074s] Installing turtle_spawn_node script to /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/my_turtle_pkg
+[1.075s] 
+[1.075s] Installed /home/maninder/Music/turtlesim_project/build/my_turtle_pkg
+[1.075s] running symlink_data
+[1.075s] symbolically linking /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/resource/my_turtle_pkg -> /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/share/ament_index/resource_index/packages
+[1.075s] symbolically linking /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/package.xml -> /home/maninder/Music/turtlesim_project/install/my_turtle_pkg/share/my_turtle_pkg
+[1.128s] Invoked command in '/home/maninder/Music/turtlesim_project/build/my_turtle_pkg' returned '0': PYTHONPATH=/home/maninder/Music/turtlesim_project/build/my_turtle_pkg/prefix_override:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/maninder/Music/turtlesim_project/build/my_turtle_pkg/build --no-deps symlink_data --force

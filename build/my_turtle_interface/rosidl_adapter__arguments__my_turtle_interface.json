@@ -1,0 +1,6 @@
+{
+  "package_name": "my_turtle_interface",
+  "non_idl_tuples": [
+    "/home/maninder/Music/turtlesim_project/src/my_turtle_interface:msg/TurtleSpawnInfo.msg"
+  ]
+}

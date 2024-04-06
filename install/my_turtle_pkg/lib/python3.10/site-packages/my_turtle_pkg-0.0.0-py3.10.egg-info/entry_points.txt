@@ -1,0 +1,4 @@
+[console_scripts]
+turtle_catch_node = my_turtle_pkg.turtle_catch_node:main
+turtle_spawn_node = my_turtle_pkg.turtle_spawn_node:main
+

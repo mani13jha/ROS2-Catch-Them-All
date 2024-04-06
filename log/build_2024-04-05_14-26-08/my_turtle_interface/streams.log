@@ -1,0 +1,44 @@
+[0.018s] Invoking command in '/home/maninder/Music/turtlesim_project/build/my_turtle_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg:/home/maninder/Music/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/maninder/Music/turtlesim_project/src/my_turtle_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/maninder/Music/turtlesim_project/install/my_turtle_interface
+[0.113s] -- The C compiler identification is GNU 11.4.0
+[0.212s] -- The CXX compiler identification is GNU 11.4.0
+[0.227s] -- Detecting C compiler ABI info
+[0.347s] -- Detecting C compiler ABI info - done
+[0.357s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.357s] -- Detecting C compile features
+[0.358s] -- Detecting C compile features - done
+[0.362s] -- Detecting CXX compiler ABI info
+[0.498s] -- Detecting CXX compiler ABI info - done
+[0.508s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.508s] -- Detecting CXX compile features
+[0.509s] -- Detecting CXX compile features - done
+[0.514s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.759s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.858s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.912s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.918s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.931s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.002s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.416s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.692s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.048s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.079s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.082s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.118s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.118s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.118s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.118s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.152s] -- Found PythonExtra: .so  
+[2.215s] -- Configuring done
+[2.268s] -- Generating done
+[2.273s] -- Build files have been written to: /home/maninder/Music/turtlesim_project/build/my_turtle_interface
+[2.284s] Invoked command in '/home/maninder/Music/turtlesim_project/build/my_turtle_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg:/home/maninder/Music/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/maninder/Music/turtlesim_project/src/my_turtle_interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/maninder/Music/turtlesim_project/install/my_turtle_interface
+[2.288s] Invoking command in '/home/maninder/Music/turtlesim_project/build/my_turtle_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg:/home/maninder/Music/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/maninder/Music/turtlesim_project/build/my_turtle_interface -- -j12 -l12
+[2.351s] [35m[1mConsolidate compiler generated dependencies of target my_turtle_interface__rosidl_generator_c[0m
+[2.366s] failed to create symbolic link '/home/maninder/Music/turtlesim_project/build/my_turtle_interface/ament_cmake_python/my_turtle_interface/my_turtle_interface' because existing path cannot be removed: Is a directory
+[2.367s] [  3%] Built target my_turtle_interface__cpp
+[2.368s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_my_turtle_interface.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_my_turtle_interface] Error 1
+[2.368s] gmake[1]: *** [CMakeFiles/Makefile2:421: CMakeFiles/ament_cmake_python_symlink_my_turtle_interface.dir/all] Error 2
+[2.368s] gmake[1]: *** Waiting for unfinished jobs....
+[2.371s] [ 12%] Built target my_turtle_interface__rosidl_generator_c
+[2.374s] gmake: *** [Makefile:146: all] Error 2
+[2.379s] Invoked command in '/home/maninder/Music/turtlesim_project/build/my_turtle_interface' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/maninder/Music/turtlesim_project/install/my_turtle_pkg:/home/maninder/Music/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/maninder/Music/turtlesim_project/build/my_turtle_interface -- -j12 -l12
